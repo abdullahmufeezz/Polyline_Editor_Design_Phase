@@ -5,7 +5,7 @@
 
 ---
 
-## Technical Specifications
+## Details
 * [cite_start]**Student:** Muhammad Abdullah Mufeez (B23110006080) [cite: 17, 18]
 * [cite_start]**Course:** HCI-CG (III-year Sec-A) [cite: 19]
 * [cite_start]**Instructor:** Dr. Humera Tariq [cite: 20]
